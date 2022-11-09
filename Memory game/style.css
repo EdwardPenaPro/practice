@@ -1,0 +1,19 @@
+p{    
+    font-size: 50px;
+    text-align: center;
+    }
+.in1{
+    display: inline-flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.card{
+    display: flex;
+    background-color: black;
+    flex-direction: column;
+    border-radius: 5%;
+    width: 230px;
+    height: 280px;
+    margin: 5px;
+}
